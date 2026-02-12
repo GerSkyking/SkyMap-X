@@ -1,7 +1,7 @@
 # SkyMap-X
 Arma Reforger Mod SkyMap-X ATAK Variant (Arma 3 CTab)
 
-# 🎮 Keybinds (Open Alpha – Subject to Change)
+# Keybinds (Open Alpha – Subject to Change)
 
 > Note: Keybinds are primarily intended for testing and may change in future updates.
 ---
@@ -29,7 +29,7 @@ Arma Reforger Mod SkyMap-X ATAK Variant (Arma 3 CTab)
 
 The tablet can also be taken into the player's hands and operated directly.
 
-## 🖐 Default Interaction
+## Default Interaction
 
 - Hold **R (Inspect)** to access the interaction options.
 
