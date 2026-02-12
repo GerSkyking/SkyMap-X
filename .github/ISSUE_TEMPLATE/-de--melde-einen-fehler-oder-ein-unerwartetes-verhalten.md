@@ -1,5 +1,5 @@
 ---
-name: Melde einen Fehler oder ein unerwartetes Verhalten
+name: "[DE] Melde einen Fehler oder ein unerwartetes Verhalten"
 about: "[Bug] Kurze Beschreibung des Problems"
 title: "[Bug] :"
 labels: bug

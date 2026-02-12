@@ -1,5 +1,5 @@
 ---
-name: Schlage eine neue Funktion oder Verbesserung vor
+name: "[DE] Schlage eine neue Funktion oder Verbesserung vor"
 about: "[Feature] Kurze Beschreibung der Idee"
 title: "[Feature] :"
 labels: enhancement
