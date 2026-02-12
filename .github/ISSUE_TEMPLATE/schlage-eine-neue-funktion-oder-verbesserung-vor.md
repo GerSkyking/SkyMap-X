@@ -1,8 +1,8 @@
 ---
 name: Schlage eine neue Funktion oder Verbesserung vor
 about: "[Feature] Kurze Beschreibung der Idee"
-title: "[Feature]"
-labels: ''
+title: "[Feature] :"
+labels: enhancement
 assignees: ''
 
 ---

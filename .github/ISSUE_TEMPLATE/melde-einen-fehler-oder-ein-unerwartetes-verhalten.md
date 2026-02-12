@@ -1,8 +1,8 @@
 ---
 name: Melde einen Fehler oder ein unerwartetes Verhalten
 about: "[Bug] Kurze Beschreibung des Problems"
-title: "[Bug]"
-labels: ''
+title: "[Bug] :"
+labels: bug
 assignees: GerSkyking
 
 ---
