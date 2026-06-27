@@ -52,8 +52,8 @@ SkyMap-X introduces attachable **Item Devices** that can act as:
 |---------|--------|
 | `Ctrl + F1` | Power On / Off / Reset |
 | `L Ctrl + 1` | GPS Mode |
-| `Ctrl + Q` | Mini Mode (~40% screen) |
-| `Ctrl + E` | Big Mode (~85% screen) |
+| `L Shift + Q` | Mini Mode (~40% screen) |
+| `L Shift + E` | Big Mode (~85% screen) |
 
 ### Map Controls
 
