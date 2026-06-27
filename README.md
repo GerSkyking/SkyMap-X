@@ -10,10 +10,8 @@ Arma Reforger Mod SkyMap-X ATAK Variant (Arma 3 CTab)
 - **Ctrl + F1** → Power On / Start / Off / Reset  
 - **L Ctrl + 1** → GPS Mode  
   *(Modes 2–4: Chat, Settings, Feed – planned)*  
-- **L Ctrl + F2** → Center map on player  
-- **L Ctrl + F3** → Center & Lock camera to player  
-- **Ctrl + Tab** → Mini Mode (~40% screen)  
-- **Shift + Tab** → Big Mode (~85% screen)
+- **Ctrl + Q** → Mini Mode (~40% screen)  
+- **Ctrl + E** → Big Mode (~85% screen)
   
 ---
 
@@ -21,7 +19,7 @@ Arma Reforger Mod SkyMap-X ATAK Variant (Arma 3 CTab)
 
 - **Page Up / Page Down** → Zoom In / Out  
 - **L Ctrl + Page Up / Page Down** → Adjust Brightness  
-- **R Ctrl + Arrow Keys** → Pan Map
+- **R Ctrl + Arrow Keys** → Pan Map -> WIP
    
 ---
 
@@ -43,9 +41,9 @@ When holding the tablet, the interaction menu allows:
 ---
 
 ## Planned for Handheld Mode
-
+- Map Panning
 - Map Panning via interaction system  
-
+- in Handheld all Bigmode Functions
 ---
 
  Some features may behave differently depending on the active UI mode  
